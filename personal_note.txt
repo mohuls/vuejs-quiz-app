@@ -1,0 +1,1 @@
+Used the basic building block of VueJS to develop this app without VueX and Vue Router
